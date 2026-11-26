@@ -1,0 +1,62 @@
+{
+  "words_file": "words.json",
+  "accent": "yellow",
+  "title": {
+    "start": 0,
+    "end": 7.8,
+    "lines": [
+      "GIA ĐÌNH",
+      "{HAY SỰ NGHIỆP?}"
+    ]
+  },
+  "emphasis": [
+    {
+      "start": 16.2,
+      "end": 18.2,
+      "text": "CON KHÓC {KHÔNG NÍN}",
+      "fx": "reveal"
+    },
+    {
+      "start": 32.2,
+      "end": 34.4,
+      "text": "LIÊN TỤC|{CẦM ĐIỆN THOẠI}",
+      "fx": "pop"
+    },
+    {
+      "start": 48.2,
+      "end": 50.4,
+      "text": "BA ĐANG {KHÔNG Ở ĐÂY}",
+      "fx": "zoom"
+    },
+    {
+      "start": 65.6,
+      "end": 67.8,
+      "text": "MÌNH ĐANG|{XÂY GÌ?}",
+      "fx": "wipe"
+    },
+    {
+      "start": 80.6,
+      "end": 82.8,
+      "text": "ĐIỆN THOẠI {Ở NGOÀI}",
+      "fx": "pop"
+    },
+    {
+      "start": 99.4,
+      "end": 101.6,
+      "text": "KHÔNG CẦN|{NHIỀU HƠN}",
+      "fx": "reveal"
+    },
+    {
+      "start": 117.4,
+      "end": 119.4,
+      "text": "LUÔN {Ở ĐÓ}",
+      "fx": "zoom"
+    },
+    {
+      "start": 126.4,
+      "end": 128.8,
+      "text": "BẠN MUỐN|{TRỞ THÀNH AI?}",
+      "fx": "slam"
+    }
+  ]
+}
